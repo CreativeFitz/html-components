@@ -1,0 +1,11 @@
+.navbar { 
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar_link {
+    color: black;
+    font-family: helvetica, sans-serif;
+    text-decoration: none;
+}
+    
